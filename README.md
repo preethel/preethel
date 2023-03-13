@@ -1,8 +1,8 @@
 
-# Hi, I'm Redwan! �
+# Hi, I'm Redwan! 👋
 
 
-## � Links
+## Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-023632?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nur-a-redwan-ul-azam-6b02aa91/)
 

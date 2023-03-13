@@ -6,9 +6,12 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-023632?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nur-a-redwan-ul-azam-6b02aa91/)
 
-[![linkedin](https://img.shields.io/badge/Facebook-0666C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/preethel)
+[![Facebook](https://img.shields.io/badge/Facebook-0666C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/preethel)
 
-[![linkedin](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:azam13bh@gmail.com?subject=MailFromGithub)
+[![Gmail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:azam13bh@gmail.com?subject=MailFromGithub)
+
+[![HackkerRank](https://img.shields.io/badge/HackkerRank-565352?style=for-the-badge&logo=HackkerRank&logoColor=white)](https://www.hackerrank.com/azam13bh)
+
 ## Programming Language
 - C
 - C#

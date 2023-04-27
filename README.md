@@ -47,7 +47,7 @@
 ## Project 
 - SimpleTTS
     ``` Speech-Typing is a Windows Forms application ```
-    ``` C#, .NET 4.8 Reference link: https://github.com/preethel/SimpleTTS ```
+    ``` C#, .NET 4.8 Reference link: (https://github.com/preethel/SimpleTTS) ```
 - ONE CLICK INVENTORY
     ``` Inventory Management System ```
     ``` C#, ASP.NET Core 3.1, JQuery Syncfusion, Entity Framework Core, HTML, Bootstrap, CSS and MSSQL Reference link: https://github.com/preethel/oneclickinventory ```
